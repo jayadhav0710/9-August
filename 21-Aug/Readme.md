@@ -1,0 +1,1 @@
+ window.onload executes when the document's window is ready for presentation and document.onload executes when the DOM tree  is completed.

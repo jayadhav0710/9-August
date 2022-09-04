@@ -80,7 +80,7 @@ export default Car;
  
  
 # Index.js
-mport React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Car from './App.js';
 
